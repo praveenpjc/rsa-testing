@@ -17,3 +17,4 @@ echo Nav::widget([
                 'linkOptions' => ['data-method' => 'post']],
     ],
 ]);
+echo "testing"
